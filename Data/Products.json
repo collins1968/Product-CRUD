@@ -1,0 +1,36 @@
+{
+  "Products": [
+    {
+      "id": 2,
+      "Name": "Honda Civic",
+      "Description": "A sporty, fuel-efficient sedan with advanced safety features.",
+      "price": "20000"
+    },
+    {
+      "id": 3,
+      "Name": "Honda Accord",
+      "description": "A reliable and fuel-efficient sedan with advanced safety features.",
+      "price": "25000"
+    },
+    {
+      "id": 4,
+      "Name": "Toyota Camry",
+      "Description": "A reliable and fuel-efficient sedan with advanced safety features.",
+      "price": "23000"
+    },
+    {
+      "id": 5,
+      "Name": "Samsung",
+      "Description": "samsung z flip",
+      "Category": "phone",
+      "price": "34000"
+    },
+    {
+      "Name": "hp probook",
+      "Description": "hp laptop core i7",
+      "Category": "laptops",
+      "price": "45000",
+      "id": 6
+    }
+  ]
+}
